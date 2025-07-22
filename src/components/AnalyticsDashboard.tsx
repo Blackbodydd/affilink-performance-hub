@@ -29,7 +29,8 @@ import {
   Filter,
   Download,
   Activity,
-  MapPin
+  MapPin,
+  BarChart3
 } from "lucide-react";
 import { ComposableMap, Geographies, Geography, Marker } from "react-simple-maps";
 import { supabase } from "@/integrations/supabase/client";
